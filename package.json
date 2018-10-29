@@ -18,7 +18,7 @@
     "rollup-plugin-copy": "0.2.3",
     "rollup-plugin-node-resolve": "3.4.0",
     "rollup-plugin-typescript2": "0.17.1",
-    "roomle-web-sdk": "git+https://github.com/Roomle/web-sdk.git#1.0.10",
+    "roomle-web-sdk": "git+https://github.com/Roomle/web-sdk.git#1.0.11",
     "tslib": "1.9.3",
     "typescript": "3.1.3"
   },
