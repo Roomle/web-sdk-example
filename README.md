@@ -13,7 +13,11 @@ Run the following commands:
 * checkout this repo
 * npm install
 * npm run serve
-* open http://127.0.0.1:8080/
+* open http://127.0.0.1:8080/ (or the URL which is displayed in your command line, it could be different if 8080 is occupied)
 * hit one of the buttons to start either the configurator or the planner
 
 If you start the configurator a USM shelf is loaded and the color is switched to red after some timeout. The planner starts and loads a sample plan. Just give it a try.
+
+## Further stuff
+
+For more details about the SDK project visit our SDK repo: https://github.com/Roomle/web-sdk
