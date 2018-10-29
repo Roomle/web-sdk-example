@@ -4,7 +4,7 @@ This is a very simplistic example how to use the Roomle Web SDK. The intention o
 
 Please make sure to include the shown parts in your build pipeline as you need it. Since every project is different we can not advice a specific project setup. 
 
-The most interesting part is of course the copying of the Roomle Assets (for details see: ) and the setting of the asset path (for details see: )
+The most interesting part is of course the copying of the Roomle Assets (for details see: https://github.com/Roomle/web-sdk#asset-copy) and the setting of the asset path (for details see: https://github.com/Roomle/web-sdk#asset-path)
 
 ## Usage
 
